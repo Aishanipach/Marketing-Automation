@@ -1,0 +1,11 @@
+A 'user story' is a way of describing a product feature that helps specify who uses the feature, what it allows them to do in the product,
+and what need or desire it satisfies.
+
+FORMATS:
+
+1.Connextra template
+    As a <role> I can <capability>, so that <receive benefit>
+              /* ex. " As a CFO, I can deploy cloud-based database so that finances are easy to manage.*/
+              
+2.'Hunting the value' alternative
+   
