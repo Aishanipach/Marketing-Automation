@@ -1,8 +1,15 @@
 METADATA:
 Title, description, tags and annotations.
 
-#Custom Thumbnail is very important to attract viewers.
-#Avoid longtail keywords
-  Ex. #Youwontbelievethis (NO)
-      #you #wont #believe #this
+-Custom Thumbnail is very important to attract viewers.
+-Avoid longtail keywords, it understands them semantically 
+    SINGLE TERM TAGS must be preferred
+      #Youwontbelievethis (NO)
+      #you #wont #believe #this(YES)
       
+    BROAD TERM TAGS are preferred 
+      #unbelievable
+      
+-Set your primary target keyword as the first tag
+  EX. Video name: How to use Youtube hashtags
+       Tags:  youtube hashtags 
