@@ -1,0 +1,8 @@
+METADATA:
+Title, description, tags and annotations.
+
+#Custom Thumbnail is very important to attract viewers.
+#Avoid longtail keywords
+  Ex. #Youwontbelievethis (NO)
+      #you #wont #believe #this
+      
