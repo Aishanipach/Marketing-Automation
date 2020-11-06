@@ -9,3 +9,4 @@ These are links and info on automation applications or plugins that will help sc
 4. [Current Trends](https://github.com/Aishanipach/Marketing_Automation/blob/master/Current%20Trends)
 5. [Flywheel](https://github.com/Aishanipach/Marketing_Automation/blob/master/Flywheel)
 6. [Google URL Builder](https://github.com/Aishanipach/Marketing_Automation/blob/master/Google_URL_Builder)
+7. [Helpful Sites](https://github.com/Aishanipach/Marketing_Automation/blob/master/Helpful_sites)
