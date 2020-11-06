@@ -1,0 +1,3 @@
+Lookback Window
+  -It refers to the information that you allow to include in your historical data report when referring to attribution reports.
+        ATTRIBUTION REPORTS: The path that the customer has taken before conversion, basically the touch points before the conversion.
