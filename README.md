@@ -16,3 +16,4 @@ These are links and info on automation applications or plugins that will help sc
 11. [Terms](https://github.com/Aishanipach/Marketing_Automation/blob/master/Terms)
 12. [User Story](https://github.com/Aishanipach/Marketing_Automation/blob/master/User%20Story)
 13. [Youtube Hashtags](https://github.com/Aishanipach/Marketing_Automation/blob/master/Youtube%20hashtags.txt)
+14. [Zapier](https://github.com/Aishanipach/Marketing_Automation/blob/master/Zapier)
