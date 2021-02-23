@@ -9,9 +9,9 @@ These are links and information on automation applications or plugins that will 
   2. [Google URL Builder](https://github.com/Aishanipach/Marketing_Automation/blob/master/Google_URL_Builder)
 
 ### B. Automation Tools & Sources:
-  1. [Helpful Sites](https://github.com/Aishanipach/Marketing_Automation/blob/master/Helpful_sites)
+  1. [Zapier](https://github.com/Aishanipach/Marketing_Automation/blob/master/Zapier)
   2. [Slack](https://github.com/Aishanipach/Marketing_Automation/blob/master/Slack)
-  3. [Zapier](https://github.com/Aishanipach/Marketing_Automation/blob/master/Zapier)
+  3. [Helpful Sites](https://github.com/Aishanipach/Marketing_Automation/blob/master/Helpful_sites)
   
 ### C. Social Media Marketing:
   1.  [Youtube Hashtags](https://github.com/Aishanipach/Marketing_Automation/blob/master/Youtube%20hashtags.txt)
