@@ -1,6 +1,6 @@
 # Marketing_Automation
 
-These are links and information on automation applications or plugins that will help scheduling your marketing campaigns with a click!
+A curated list of links nad quick notes on automation applications or plugins that will help with your marketing campaigns!
 
 ## Index:
 
