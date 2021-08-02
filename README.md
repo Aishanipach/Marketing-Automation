@@ -1,6 +1,6 @@
 # Marketing_Automation
 
-A curated list of links nad quick notes on automation applications or plugins that will help with your marketing campaigns!
+A curated list of links and quick notes on automation applications or plugins that will help with your marketing campaigns!
 
 ## Index:
 
